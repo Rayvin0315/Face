@@ -1,0 +1,9 @@
+﻿<Window x:Class="FaceApiSample.PicturesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PicturesWindow" Height="600" Width="800">
+    <Grid>
+        <WrapPanel Name="PicturesWrapPanel" />
+    </Grid>
+</Window>
+
